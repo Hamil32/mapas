@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "name": "buenos_aires_amba",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BA_AMBA",
+        "name": "Buenos Aires (AMBA aprox.)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-58.80, -34.85],
+            [-58.10, -34.85],
+            [-58.10, -34.35],
+            [-58.80, -34.35],
+            [-58.80, -34.85]
+          ]
+        ]
+      }
+    }
+  ]
+}
